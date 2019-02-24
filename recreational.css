@@ -1,0 +1,29 @@
+body{
+    background-color: blueviolet
+}
+
+header{
+    text-align:center;
+    font-size:50px;
+    display:block;
+    color:yellow;
+}
+
+h3{
+    font-size:30px;
+
+img{
+    border-style:solid;
+    border-color: blue;
+}
+
+ ul{color:blue;
+     font-style:impact;
+ }
+ 
+ li{
+     color:yellowgreen;
+     font-style:italic;
+ }
+
+
